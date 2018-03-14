@@ -18,10 +18,12 @@ Go to profiles -> window -> style -> no title bar
 [speed up dock autohide](http://www.idownloadblog.com/2015/02/14/auto-hide-dock-no-delay-mac/)
 
 terminal:
-```defaults write com.apple.dock autohide -bool true && defaults write com.apple.dock autohide-delay -float 0 && defaults write com.apple.dock autohide-time-modifier -float 0.4 && killall Dock
+```
+defaults write com.apple.dock autohide -bool true && defaults write com.apple.dock autohide-delay -float 0 && defaults write com.apple.dock autohide-time-modifier -float 0.4 && killall Dock
 ```
 restore default:
 
-```defaults delete com.apple.dock autohide && defaults delete com.apple.dock autohide-delay && defaults delete com.apple.dock autohide-time-modifier && killall Dock
+```
+defaults delete com.apple.dock autohide && defaults delete com.apple.dock autohide-delay && defaults delete com.apple.dock autohide-time-modifier && killall Dock
 ```
 Email: claytondblythe@gmail.com
