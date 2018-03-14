@@ -4,6 +4,8 @@ This is a repository to keep notes for future development environment setups on 
 
 Much is adapted and taken from [this dev setup repository](https://github.com/donnemartin/dev-setup)
 
+First, use the brew.sh, aws.sh, and pydata.sh scripts to install Homebrew, AWS tools, and python/pip tools. 
+
 ### Firefox Quantum
 [Link](https://www.mozilla.org/en-US/firefox/)
 
