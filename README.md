@@ -1,8 +1,8 @@
-This is a project called devsetup created by Clayton Blythe on 2018/03/14
-
 # Python & ML Dev Setup
 
 This is a repository to keep notes for future development environment setups on OSX specifically.
+
+Much is adapted and taken from [this dev setup repository](https://github.com/donnemartin/dev-setup)
 
 ### Firefox Quantum
 [Link](https://www.mozilla.org/en-US/firefox/)
@@ -34,4 +34,3 @@ restore default:
 ```
 defaults delete com.apple.dock autohide && defaults delete com.apple.dock autohide-delay && defaults delete com.apple.dock autohide-time-modifier && killall Dock
 ```
-Email: claytondblythe@gmail.com
