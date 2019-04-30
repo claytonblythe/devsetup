@@ -16,6 +16,21 @@ Login with your credentials across machines to sync settings, personalization, b
 
 Go to profiles -> window -> style -> no title bar
 
+##### Disable "find cursor" shortcut
+
+Go to iTerm2 Preferences... --> Keys
+
+Click on + under the grid
+
+Press ⌘+/ with cursor in the Keyboard Shortcut field
+
+Leave the Action field value set to Ignore
+
+
+##### System-wide Hotkey
+
+Preferences -> Keys -> Hotkey 
+
 ### Install Pycharm Professional Edition
 [Pycharm Professional Edition](https://www.jetbrains.com/pycharm/)
 
